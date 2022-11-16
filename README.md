@@ -12,13 +12,12 @@
 * [Questions](#questions)
 
 ## Description
+I built a text editor that runs in the browser. This is a single-page Progressive Web Application (PWA) and features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
 
 ## Installation Instructions
 Install Node.js before using this application.
 
 ## Usage Information
-[Click here for a demo video.](https://drive.google.com/file/d/1iwFZPFSx0fTk0q1f78BIOgyH5Dr8CdVr/view)
-
 ![Text Editor Screenshot](./public/assets/images/text-editor-screenshot.png)
 
 ## License
