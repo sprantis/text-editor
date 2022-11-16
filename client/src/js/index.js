@@ -1,3 +1,6 @@
+// This index.js file is our entry point file
+// We import other modules and assets used in the app into this file
+
 import { Workbox } from 'workbox-window';
 import Editor from './editor';
 import './database';
