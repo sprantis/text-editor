@@ -18,7 +18,10 @@ I built a text editor that runs in the browser. This is a single-page Progressiv
 Install Node.js before using this application.
 
 ## Usage Information
-![Text Editor Screenshot](./public/assets/images/text-editor-screenshot.png)
+
+[Click here to check it out!](https://pure-everglades-02823.herokuapp.com/)
+
+![Text Editor Screenshot](./client/src/images/text-editor-screenshot.png)
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
