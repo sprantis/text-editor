@@ -29,7 +29,7 @@ warmStrategyCache({
   strategy: pageCache,
 });
 
-// Set up asset cache
+// Set up page cache
 registerRoute(({ request }) => request.mode === 'navigate', pageCache);
 
 // Set up asset cache
