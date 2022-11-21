@@ -1,3 +1,5 @@
+// Referencing Module 19 activities
+
 // Caching js and css requires workbox-strategies to be installed
 // To actually respond to requests with a cached response, we need to use a strategy called StaleWhileRevalidate
 // This strategy will first check the cache for a response, and if it finds one, it will return it.

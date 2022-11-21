@@ -1,3 +1,5 @@
+// Referencing Module 19 activities
+
 import { openDB } from 'idb';
 
 const initdb = async () =>

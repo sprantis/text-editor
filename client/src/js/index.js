@@ -1,3 +1,5 @@
+// Referencing Module 19 activities
+
 // This index.js file is our entry point file
 // We import other modules and assets used in the app into this file
 

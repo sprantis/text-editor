@@ -1,3 +1,5 @@
+// Referencing Module 19 activities
+
 const butInstall = document.getElementById('buttonInstall');
 
 // Logic for installing the PWA

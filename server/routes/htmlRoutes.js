@@ -1,3 +1,5 @@
+// Referencing Module 19 activities
+
 const path = require('path');
 
 module.exports = (app) =>

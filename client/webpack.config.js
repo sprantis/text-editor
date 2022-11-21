@@ -1,3 +1,5 @@
+// Referencing Module 19 activities
+
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const WebpackPwaManifest = require('webpack-pwa-manifest');
 const path = require('path');
