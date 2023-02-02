@@ -12,7 +12,7 @@
 * [Questions](#questions)
 
 ## Description
-I built a text editor that runs in the browser. This is a single-page Progressive Web Application (PWA) and features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
+I built a text editor that runs in the browser. This is a single-page Progressive Web Application (PWA) and features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. This application was built using HTML, CSS, and JavaScript for the front end, an Express Server for the backend, and Webpack for file bundling. The application also functions offline.
 
 ## Installation Instructions
 Install Node.js before using this application.
