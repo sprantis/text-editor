@@ -23,6 +23,8 @@ Install Node.js before using this application.
 
 ![Text Editor Screenshot](./client/src/images/text-editor-screenshot.png)
 
+After opening the app, enter in some text. Your progress will be saved even after you close the app and reopen at a later point. This app is also downloadable as a PWA that you can access from your desktop!
+
 ## License
 [MIT](https://opensource.org/licenses/MIT)
 
